@@ -13349,6 +13349,11 @@
             "hex": "0A222E",
             "source": "https://www.rimac-automobili.com/media/",
             "guidelines": "https://www.rimac-automobili.com/media/"
+        },        
+        {
+            "title": "Rime",
+            "hex": "000000",
+            "source": "https://github.com/rime/home/blob/master/blog/source/images/logo.svg",
         },
         {
             "title": "Ring",
